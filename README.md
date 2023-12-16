@@ -1,3 +1,4 @@
+```
 #Benchmarks
 
 ##nginx-fpm
@@ -88,3 +89,4 @@ Running 30s test @ http://127.0.0.1:9501
   6475734 requests in 30.10s, 1.00GB read
 Requests/sec: 215138.73
 Transfer/sec:     33.85MB
+```
